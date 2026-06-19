@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**vwinz/vwinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yahallo, I'm Ian Vince!
 
-Here are some ideas to get you started:
+-------------------------
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a developer driven by **creativity and technology**, focused on building scalable, clean, and user-centered systems.
+
+I enjoy working across the full development lifecycle—from **designing systems and writing code**, to **testing, improving quality, and delivering reliable products**.
+
+-  Currently exploring advanced **full-stack architecture & system design**
+-  Strong focus on **project management and software quality assurance**
+-  I also enjoy blending **creative coding with real-world applications**
+-  Always improving performance, usability, and maintainability of systems
+
+
+## Core Skills
+
+- Full-Stack Development
+- Backend Development
+- Database Design & Management
+- Software Architecture
+- Project Management
+- Quality Assurance & Testing
+- Creative Coding
